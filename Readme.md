@@ -10,4 +10,4 @@
 
 ## 3주차 과제(2020.06.04)
 
-* [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://colab.research.google.com/drive/1BUWpJ3PV23iFmTDVkwVxeZa-pnXizf97#scrollTo=3XfP0-zIXQF6)
+* [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/hackershaker/AIproject/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
